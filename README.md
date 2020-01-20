@@ -1,16 +1,11 @@
-# flutter_app
+# my flutter code samples
 
-A test Flutter application.
+qiitaに投稿した記事の動作コードになります。
 
-## Getting Started
+## リスト
 
-This project is a starting point for a Flutter application.
+### Sample 1
+- [flutter 全面にローディングを表示させるサンプル](https://qiita.com/quqjp/items/4e5cb808f829161bc259)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Sample 2
+- [Flutter iOS 幅320px端末で status barを隠す](https://qiita.com/quqjp/items/43247df6554928cae15c)
